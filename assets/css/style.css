@@ -3,12 +3,12 @@
     background-color:yellow;
     color:blue;
     padding:10px 250px 500px 250px;
-    margin:50px ;
+    margin:100px ;
 }
 #header{
 font-size:3em;
 text-align:top;
-margin-bottom:300px;
+margin-bottom:200px;
 }
 #btn{
 border:1px;
@@ -29,9 +29,16 @@ text-align:center;
 background-color: yellow;
 margin:auto;
 margin-bottom:10px;
+font-size:1.5em;
+padding:5px 40px;
+color:blue;
 
 
 }
 .button:hover{
 background-color:white;
+}
+#quiz{
+    line-height:2em;
+    font-size:2em;
 }
