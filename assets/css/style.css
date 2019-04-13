@@ -1,8 +1,11 @@
 #container{
      text-align: center; 
-    background-color:yellow;
+     background-color:rgb(245, 245, 161);
+     opacity: 0.9;
+
+
     color:blue;
-    padding:10px 250px 500px 250px;
+    padding:10px 100px 500px 100px;
     margin:100px ;
 }
 #header{
@@ -26,10 +29,10 @@ font-size:1.5em;
     display:block;
 align-items: center;
 text-align:center;
-background-color: yellow;
+background-color: rgb(245, 245, 161);
 margin:auto;
 margin-bottom:10px;
-font-size:1.5em;
+font-size:1em;
 padding:5px 40px;
 color:blue;
 
@@ -40,5 +43,8 @@ background-color:white;
 }
 #quiz{
     line-height:2em;
-    font-size:2em;
+    font-size:2.5em;
+}
+body{
+    background-image: url("../images/background.jpg");
 }
